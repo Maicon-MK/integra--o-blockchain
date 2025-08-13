@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+stellar-sdk
+requests
+pytest
+httpx
+python-multipart
+python-dotenv
+pillow
+aiofiles
+
+# Dependências adicionais para contratos Stellar
+boto3
+botocore
+cryptography
+hashlib-compat
